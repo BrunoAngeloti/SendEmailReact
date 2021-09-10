@@ -1,0 +1,23 @@
+.container {
+    width: 300px;
+    background-color: red;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.form input{
+    margin-top: 20px;
+    width: 80%;
+}
+
+.form textarea{
+    margin-top: 20px;
+    width: 80%;
+    
+}
