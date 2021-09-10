@@ -3,8 +3,9 @@
     align-items: center;
     justify-content: center;
     height:100vh;
-    background-image: url(../assets/tech.jpg);
+    /*background-image: url(../assets/tech.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
+    background-color: #00B19F;
 }
 
